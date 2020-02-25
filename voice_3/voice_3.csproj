@@ -83,6 +83,14 @@
     <Content Include="bin\Debug\fonems\a.wav" />
     <Content Include="bin\Debug\fonems\ae.wav" />
     <Content Include="bin\Debug\fonems\b.wav" />
+    <Content Include="bin\Debug\fonems\b\ba.wav" />
+    <Content Include="bin\Debug\fonems\b\bae.wav" />
+    <Content Include="bin\Debug\fonems\b\be.wav" />
+    <Content Include="bin\Debug\fonems\b\bi.wav" />
+    <Content Include="bin\Debug\fonems\b\bia.wav" />
+    <Content Include="bin\Debug\fonems\b\biu.wav" />
+    <Content Include="bin\Debug\fonems\b\bo.wav" />
+    <Content Include="bin\Debug\fonems\b\bu.wav" />
     <Content Include="bin\Debug\fonems\d.wav" />
     <Content Include="bin\Debug\fonems\f.wav" />
     <Content Include="bin\Debug\fonems\g.wav" />
